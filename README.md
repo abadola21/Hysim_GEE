@@ -9,7 +9,7 @@ For detailed instructions on using the application, refer to the [Hysim document
 The repository includes two files: Application.js and Access to code.js, which are designed to be executed in the Google Earth Engine Code Editor.
 For setup instructions and guidance on running these files after download, please see the [Hysim_Application_Set_up_guide.docx](https://github.com/user-attachments/files/17422815/Hysim_Application_Set_up_guide.docx)
 
-Link to the GEE Code Editor: https://code.earthengine.google.com/
+Link to the GEE Code Editor : https://code.earthengine.google.com/
 To use the Google Earth Engine (GEE) Code Editor, you need to have an active account. You can register for an account using this link : https://code.earthengine.google.com/register.
 
 Alternatively ,You can directly download the folder Alaska_Hysim (which contains the above two files) on your local machine by running the following the command on your git bash.    
