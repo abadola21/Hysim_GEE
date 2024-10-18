@@ -5,8 +5,8 @@ True hyperspectral imagery, which captures a wide range of the electromagnetic s
 This application leverages Google Earth Engine to generate low-cost hyperspectral simulated Data from Sentinel-2 multispectral imagery, focusing on enhancing users ability to access hyperspectral data. Users can interactively select areas of interest within Alaska, adjust parameters such as cloud coverage, and choose specific image dates for detailed examination. The interface has tools for area of interest, sliders for filtering images based on cloud cover, and dropdowns for selecting dates. The application supports downloading and exporting of both Sentinel and Hyperspectral images and includes advanced functionalities like RGB and False Color Composite (FCC) visualizations download options. It’s designed to provide researchers, educators, and environmental scientists with a powerful tool for remote sensing and environmental monitoring, directly from their web browsers.
 
 __Application URL__ : https://abadola.users.earthengine.app/view/hysim  
-For detailed instructions on using the application, refer to the [Hysim documentation.pdf](https://github.com/user-attachments/files/17289974/Hysim.documentation.pdf)  
-The repository includes two files: Application.js and Access to code.js, which are designed to be executed in the Google Earth Engine (GEE) Code Editor.    
+For detailed instructions on using the application, refer to the [Hysim documentation.pdf](https://github.com/user-attachments/files/17289974/Hysim.documentation.pdf)    
+The repository includes two files: Application.js and Access to code.js, which are designed to be executed in the Google Earth Engine Code Editor.      
 For setup instructions and guidance on running these files after download, please see the [Hysim_Application_Set_up_guide.docx](https://github.com/user-attachments/files/17422815/Hysim_Application_Set_up_guide.docx)
 
 Link to the GEE Code Editor: https://code.earthengine.google.com/
