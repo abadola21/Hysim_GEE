@@ -16,7 +16,7 @@ Link to the GEE Code Editor : https://code.earthengine.google.com/
 To use the Google Earth Engine (GEE) Code Editor, you need to have an active account. You can register for an account using this link : https://code.earthengine.google.com/register.
 
 Alternatively ,You can directly download the folder Alaska_Hysim (which contains the above two files) on your local machine by running the following the command on your git bash.    
-__git clone https://earthengine.googlesource.com/users/abadola/HySim__  
+__git clone https://earthengine.googlesource.com/users/abadola/HySim__   
 To do this, navigate to the directory where you'd like to download the folder in Git Bash, and then run the command.  
 For example, if you want to download it to your Desktop, you can move to the Desktop by using the command:  
 ~cd Desktop  
