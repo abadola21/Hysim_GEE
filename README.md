@@ -23,12 +23,14 @@ Access to code.js
 These files are designed to be executed in the Google Earth Engine (GEE) Code Editor and cannot run outside of the GEE environment. To use them, you must have an active GEE account.    
 
 __Requirements:__
-Google Earth Engine Account:    
 
+Google Earth Engine Account:    
 If you don’t have an account, you can register here: https://code.earthengine.google.com/register.    
-To access the GEE Code Editor, use this link: [GEE Code Editor](https://code.earthengine.google.com/)      
+To access the GEE Code Editor, use this link: [GEE Code Editor](https://code.earthengine.google.com/)    
+
 __Browser and Internet Connection:__  
 Ensure you are using a modern web browser (such as Chrome, Firefox, or Edge) with JavaScript enabled.  
 A stable internet connection is required to access the GEE Code Editor and run the Hysim application effectively.  
+
 __Setting Up Hysim Application:__    
 For guidance on setting up and running the files, please refer to the Hysim Application Setup Guide. [Hysim_Application_Set_up_guide.docx](https://github.com/user-attachments/files/17422815/Hysim_Application_Set_up_guide.docx)  
