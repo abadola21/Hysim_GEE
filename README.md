@@ -17,8 +17,8 @@ For setup instructions and guidance on running these files after download, pleas
 
 __Code and Setup__  
 The repository includes two files:  
-__Application.js__    
-__Access to code.js__    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- __Application.js__    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- __Access to code.js__    
 These files are designed to be executed in the Google Earth Engine (GEE) Code Editor and cannot run outside of the GEE environment. To use them, you must have an active GEE account.    
 
 __Requirements:__    
@@ -33,9 +33,8 @@ A stable internet connection is required to access the GEE Code Editor and run t
 __Setting Up Hysim Application:__    
 For guidance on setting up and running the files, please refer to the Hysim Application Setup Guide. [Hysim_Application_Set_up_guide.docx](https://github.com/user-attachments/files/17422815/Hysim_Application_Set_up_guide.docx)  
 
-__License:__ 
+__License:__   
 The data are licensed under a MIT license. See LICENSE for details.
 
-__Funding support__ 
-
+__Funding support:__   
 This work is supported by the USDA National Institute of Food and Agriculture, McIntire Stennis project [1026801] and by the National Science Foundation under the award OIA-1757348 and the State of Alaska.
