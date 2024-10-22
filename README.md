@@ -15,10 +15,20 @@ For setup instructions and guidance on running these files after download, pleas
 Link to the GEE Code Editor : https://code.earthengine.google.com/
 To use the Google Earth Engine (GEE) Code Editor, you need to have an active account. You can register for an account using this link : https://code.earthengine.google.com/register.
 
-Alternatively ,You can directly download the folder Alaska_Hysim (which contains the above two files) on your local machine by running the following the command on your git bash.    
-__git clone https://earthengine.googlesource.com/users/abadola/HySim__   
-To do this, navigate to the directory where you'd like to download the folder in Git Bash, and then run the command.  
-For example, if you want to download it to your Desktop, you can move to the Desktop by using the command:  
-~cd Desktop  
-After you're in the desired location, simply run the clone command above to download the repository.
-Once downloaded follow the instrcutions in Google Earth Engine Application setup guide : [Hysim_Application_Set_up_guide.docx](https://github.com/user-attachments/files/17422816/Hysim_Application_Set_up_guide.docx)
+__Code and Setup__  
+The repository includes two files:  
+
+Application.js    
+Access to code.js    
+These files are designed to be executed in the Google Earth Engine (GEE) Code Editor and cannot run outside of the GEE environment. To use them, you must have an active GEE account.    
+
+__Requirements:__
+Google Earth Engine Account:    
+
+If you don’t have an account, you can register here: https://code.earthengine.google.com/register.    
+To access the GEE Code Editor, use this link: [GEE Code Editor](https://code.earthengine.google.com/)      
+__Browser and Internet Connection:__  
+Ensure you are using a modern web browser (such as Chrome, Firefox, or Edge) with JavaScript enabled.  
+A stable internet connection is required to access the GEE Code Editor and run the Hysim application effectively.  
+__Setting Up Hysim Application:__    
+For guidance on setting up and running the files, please refer to the Hysim Application Setup Guide. [Hysim_Application_Set_up_guide.docx](https://github.com/user-attachments/files/17422815/Hysim_Application_Set_up_guide.docx)  
