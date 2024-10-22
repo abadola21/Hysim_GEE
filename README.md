@@ -1,6 +1,6 @@
 # Hyperspectral-Image-Simulation-Application-for-Alaska
 
-[![DOI](https://zenodo.org/badge/515659835.svg)](https://doi.org/10.5281/zenodo.8277599)
+[![DOI](https://zenodo.org/badge/873892037.svg)](https://doi.org/10.5281/zenodo.13973467)
 
 __About the Application__   
 True hyperspectral imagery, which captures a wide range of the electromagnetic spectrum with narrow spectral bands, is not as readily available as multispectral data. Satellites capable of capturing hyperspectral data are limited, making it challenging for researchers to access this valuable data regularly.
