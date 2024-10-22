@@ -14,12 +14,12 @@ For setup instructions and guidance on running these files after download, pleas
 
 __Code and Setup__  
 The repository includes two files:  
-Application.js    
-Access to code.js    
+__Application.js__    
+__Access to code.js__    
 These files are designed to be executed in the Google Earth Engine (GEE) Code Editor and cannot run outside of the GEE environment. To use them, you must have an active GEE account.    
 
-__Requirements:__
-Google Earth Engine Account:    
+__Requirements:__    
+One must have an active GEE account to use the code files.    
 If you don’t have an account, you can register here: https://code.earthengine.google.com/register.    
 To access the GEE Code Editor, use this link: [GEE Code Editor](https://code.earthengine.google.com/)    
 
